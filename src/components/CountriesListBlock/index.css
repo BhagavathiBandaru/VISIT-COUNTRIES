@@ -1,0 +1,26 @@
+.each-list-element {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  margin: 5px;
+  margin-left: 10px;
+  min-width: 80vw;
+}
+
+.name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-style: normal;
+  margin: 5px;
+}
+.textEle {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-style: normal;
+  margin: 5px;
+  margin-right: 20px;
+}
